@@ -1,6 +1,6 @@
 # SLAMBench for Android  [![Build Status](https://travis-ci.org/bbodin/slambench-android.svg?branch=master)](https://travis-ci.org/bbodin/slambench-android)
 
-## NOTE: THIS REPO IS NOT THE PROJECT REPO FOR CAPSTONE. THIS IS THE ORIGINAL SLAMBENCH FOR ANDROID PROJECT FOR REFERENCE.
+### NOTE: THIS REPO IS NOT THE PROJECT REPO FOR CAPSTONE. THIS IS THE ORIGINAL SLAMBENCH FOR ANDROID PROJECT FOR REFERENCE.
 
 This repository contains the Android version of SLAMBench. 
 SLAMBench for Android uses the KinectFusion algorithm to evaluate the CPU (and the GPU) performance of mobile phones.
